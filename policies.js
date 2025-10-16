@@ -1076,6 +1076,426 @@ window.POLICIES = [
           { 
             "title": "Equitable Tea Temperature Act", 
             "rationale": "Standardises the ideal brew temperature to prevent emotional inequality between kettle types. Households with overheating tendencies will be issued Cooling Compassion Kettles."
+          },
+          {
+            "title": "Public Empathy Resilience Curriculum",
+            "rationale": "Introduces compulsory emotional literacy classes in all schools. Pupils will learn to identify microaggressions in rainfall, empathise with moss, and apologise to puddles for splashing them."
+          },
+          {
+            "title": "Heritage Kindness Preservation Trust",
+            "rationale": "Protects traditional Welsh niceness as an intangible cultural asset. Volunteers will conduct audits on neighbourly greetings to ensure compliance with politeness quotas."
+          },
+          {
+            "title": "Renewable Bureaucratic Warmth Fund",
+            "rationale": "Allocates resources to increase the friendliness of official correspondence. All government letters must open with a personalised compliment before proceeding to regulation."
+          },
+          {
+            "title": "Emotional Inclusivity in Cupboard Space Act",
+            "rationale": "Ensures equal access to sustainable storage. Larger households must share surplus shelving capacity with underprivileged kitchens through state-facilitated cupboard redistribution."
+          },
+          {
+            "title": "Cultural Recycling Heritage Pathway",
+            "rationale": "Transforms disused recycling centres into contemplation zones. Citizens will meditate on the journey of plastics as metaphors for personal transformation."
+          },
+          {
+            "title": "Low Carbon Applause Framework",
+            "rationale": "Restricts clapping volume in theatres to conserve sound energy. Audiences must instead perform ‘air appreciation gestures’ verified by carbon accountants."
+          },
+          {
+            "title": "Strategic Empathy Hubs Network",
+            "rationale": "Establishes community centres where citizens can share regulated doses of compassion. Each hub will feature bilingual therapists and drizzle-resistant beanbags."
+          },
+          {
+            "title": "Minister for Existential Fairness",
+            "rationale": "Oversees metaphysical equality to ensure no citizen feels cosmically overlooked. Policies will balance planetary empathy with interstellar humility."
+          },
+          {
+            "title": "Inclusive Seagull Integration Strategy",
+            "rationale": "Encourages coastal harmony by promoting interspecies dialogue. Seagulls will receive funding for behaviour workshops and public awareness campaigns to reduce chip-shaming."
+          },
+          {
+            "title": "Rural Enlightenment Rollout Plan",
+            "rationale": "Delivers mindfulness broadband to countryside communities. Connection speeds measured not in megabits but in moments of spiritual awakening."
+          },
+          {
+            "title": "Polite Protest Authorisation Framework",
+            "rationale": "Requires demonstrators to pre-submit slogans for tonal moderation. Chants must adhere to Compassionate Volume Standards and conclude with gratitude toward police facilitators."
+          },
+          {
+            "title": "Zero-Hierarchy Public Consultation Model",
+            "rationale": "Eliminates positional authority in policymaking. All voices carry equal weight, including those of livestock where relevant to rural wellbeing discussions."
+          },
+          {
+            "title": "Emotional Texture Zoning Regulation",
+            "rationale": "Introduces mood-based planning codes. Buildings must evoke feelings of comfort and humility, with penalties for structures judged to be ‘architecturally smug’."
+          },
+          {
+            "title": "Wellbeing-Positive Drainage Strategy",
+            "rationale": "Rebrands sewers as ‘underground emotional flow systems’. Citizens will be invited to thank local drains for their invisible service to public harmony."
+          },
+          {
+            "title": "Public Reflection Infrastructure Project",
+            "rationale": "Installs mirrored panels in civic spaces to encourage daily introspection. Citizens caught rushing past without meaningful self-examination may receive advisory leaflets."
+          },
+          {
+            "title": "De-Carbonised Thought Leadership Initiative",
+            "rationale": "Encourages policy discussions powered entirely by renewable ideas. Thought emissions will be offset through government-sanctioned tree poetry readings."
+          },
+          {
+            "title": "Compassion Through Bureaucracy Challenge Fund",
+            "rationale": "Awards departments that demonstrate humanity through paperwork. Criteria include empathy density per paragraph and the moral recyclability of official jargon."
+          },
+          {
+            "title": "Heritage Drizzle Experience Centres",
+            "rationale": "Converts underused museums into immersive rain appreciation zones. Visitors will wear empathy ponchos and receive bilingual precipitation gratitude guides."
+          },
+          {
+            "title": "Universal Hug Access Directive",
+            "rationale": "Guarantees equitable distribution of emotional support across regions. Hug provision targets will be set by postcode, with quarterly audits on tactile fairness."
+          },
+          {
+            "title": "Virtue Capture and Storage Scheme",
+            "rationale": "Models itself on carbon capture technology. Excess righteousness generated by government programmes will be stored underground for future moral emergencies."
+          },
+          {
+            "title": "Emotional Risk Assessment Policy",
+            "rationale": "Requires all government initiatives to evaluate potential hurt feelings. Projects exceeding a threshold of discomfort must undergo a Kindness Impact Mitigation Plan."
+          },
+          {
+            "title": "Citizen Thought Alignment Campaign",
+            "rationale": "Promotes unity of moral purpose through guided ideological mindfulness. Public disagreements to be resolved in state-approved empathy circles with mandatory tea."
+          },
+          {
+            "title": "Sustainable Heritage Wool Mandate",
+            "rationale": "Ensures all Welsh wool is sourced from emotionally supported sheep. Farmers must recite affirmations to flocks before shearing to achieve official 'Mindful Fleece' status."
+          },
+          {
+            "title": "Bilingual Air Quality Assurance Plan",
+            "rationale": "Guarantees that both Welsh and English speakers breathe equally inclusive air. Pollution reports must be emotionally neutral and smell faintly of lavender."
+          },
+          {
+            "title": "Eco-Linguistic Justice Framework",
+            "rationale": "Expands bilingual policy to include communication with flora and fauna. Government spokespeople trained in ‘plant listening’ will ensure trees are adequately consulted."
+          },
+          {
+            "title": "Participatory Whalesong Programme",
+            "rationale": "Invites citizens to join virtual duets with migrating whales via the state empathy portal. Participants receive wellbeing credits for sustained harmonic alignment."
+          },
+          {
+            "title": "Minister for Intentional Stillness",
+            "rationale": "Oversees national moments of mandated calm. Departments must pause twice daily to practice collective inaction, measured in minutes of moral restfulness."
+          },
+          {
+            "title": "Collective Sincerity Evaluation Board",
+            "rationale": "Audits the authenticity of public statements. Officials scoring below the Sincerity Index baseline must attend workshops in Advanced Authenticity Expression."
+          },
+          {
+            "title": "Renewable Sentiment Generation Scheme",
+            "rationale": "Captures the energy of warm feelings for grid integration. Communities exceeding quota may export surplus goodwill to less content regions."
+          },
+          {
+            "title": "Moral Landscape Restoration Plan",
+            "rationale": "Funds rewilding projects for overdeveloped consciences. Citizens encouraged to let their moral ecosystems regenerate through unstructured empathy sessions."
+          },
+          {
+            "title": "National Empathy Census",
+            "rationale": "Conducts biennial surveys measuring kindness per capita. Data used to determine regional funding for mood enhancement infrastructure."
+          },
+          {
+            "title": "Zero-Penalty Emotional Policing Scheme",
+            "rationale": "Replaces punitive measures with guided self-reflection. Offenders will journal their emotional triggers in a state-issued mindfulness logbook."
+          },
+          {
+            "title": "Sustainable Choir Emission Standard",
+            "rationale": "Regulates choir rehearsals to ensure harmony without hot air. Singers must offset each hymn by planting at least one sapling of moral intention."
+          },
+          {
+            "title": "Civic Serenity Zoning Act",
+            "rationale": "Designates quiet zones in urban centres where citizens must walk at reflective pace. Running or brisk optimism prohibited without permit."
+          },
+          {
+            "title": "Mindful Taxation Initiative",
+            "rationale": "Rebrands taxes as ‘contributions of gratitude’. Payment reminders will include moral affirmations to reduce fiscal guilt and increase spiritual compliance."
+          },
+          {
+            "title": "Emotional Heat Network Plan",
+            "rationale": "Captures surplus warmth from overenthusiastic meetings to heat local communities. Ministers encouraged to generate compassion for thermal efficiency."
+          },
+          {
+            "title": "Post-Industrial Reflection Corridor",
+            "rationale": "Transforms disused rail lines into contemplative walking routes. Travellers must document personal growth achieved through slow travel introspection."
+          },
+          {
+            "title": "Cultural Blame Reduction Strategy",
+            "rationale": "Aims to halve the national blame output by 2030. Citizens caught finger-pointing will be redirected to Shared Accountability Circles."
+          },
+          {
+            "title": "Eco-Melancholy Normalisation Bill",
+            "rationale": "Recognises sadness about the planet as a form of civic virtue. Government to distribute approved sorrow playlists to all secondary schools."
+          },
+          {
+            "title": "Digital Politeness Firewall",
+            "rationale": "Filters online comments through empathy algorithms. Users attempting sarcasm must first complete a tone calibration quiz before posting."
+          },
+          {
+            "title": "Bureaucratic Rewilding Week",
+            "rationale": "Encourages government departments to work outdoors. Staff will submit forms written on recycled bark and conduct meetings in symbolic drizzle."
+          },
+          {
+            "title": "National Mood Stabilisation Authority",
+            "rationale": "Monitors collective emotional variance. Sudden bursts of national enthusiasm will be gently redistributed to maintain equilibrium."
+          },
+          {
+            "title": "Green Virtue Certification Board",
+            "rationale": "Accredits citizens for sustainable morality. Points awarded for low-carbon smugness and documented public acts of measured humility."
+          },
+          {
+            "title": "Holistic Queue Management Plan",
+            "rationale": "Reconceptualises waiting as a shared national meditation. Queue attendants will distribute herbal teas and lead reflective chanting on civic patience."
+          },
+          {
+            "title": "Ethical Postman Charter",
+            "rationale": "Trains postal workers to deliver letters mindfully. Recipients will be encouraged to thank each envelope for its emotional journey through the supply chain."
+          },
+          {
+            "title": "Coastal Gratitude Initiative",
+            "rationale": "Encourages citizens to thank the sea daily for its emotional service to the nation. Drip-led ceremonies to be conducted at sunrise with government-funded mindfulness buckets."
+          },
+          {
+            "title": "Sustainable Silence Accreditation Scheme",
+            "rationale": "Certifies individuals and organisations for maintaining prolonged eco-silence. Silent minutes can be traded as offsets against excessive talking."
+          },
+          {
+            "title": "Virtue Neutrality in Government Procurement Policy",
+            "rationale": "Prevents moral bias in purchasing decisions. All suppliers must prove their materials are ethically ambivalent and free from ideological residue."
+          },
+          {
+            "title": "Mindful Pavement Strategy",
+            "rationale": "Introduces lanes for contemplative walking and gratitude strolling. Pedestrians displaying haste will be redirected to Calmness Compliance Pathways."
+          },
+          {
+            "title": "Post-Laughter Recovery Fund",
+            "rationale": "Provides counselling for citizens destabilised by unapproved humour. Therapists will guide participants through structured remorse and tonal re-education."
+          },
+          {
+            "title": "Department of Eternal Consultation",
+            "rationale": "Formalises the government’s commitment to perpetual feedback loops. Every policy will remain under review indefinitely to prevent decisive inequality."
+          },
+          {
+            "title": "Inclusive Echo Valley Experiment",
+            "rationale": "Tests fairness in sound reflection across regions. Areas with unequal echo distribution will receive acoustic empathy grants."
+          },
+          {
+            "title": "Wellness Data Equalisation Programme",
+            "rationale": "Balances happiness statistics by redistributing excess joy to struggling postcodes through digital empathy transfers."
+          },
+          {
+            "title": "Equitable Hope Allocation Act",
+            "rationale": "Ensures all citizens receive an equal quota of state-approved optimism. Excessively hopeful individuals must donate surplus cheer to regions identified as emotionally underprivileged."
+          },
+          {
+            "title": "Moral Compost Acceleration Scheme",
+            "rationale": "Encourages households to convert guilt into spiritual fertilizer. Participants receive virtue credits for every kilogram of remorse successfully biodegraded."
+          },
+          {
+            "title": "Department for Ambient Fairness",
+            "rationale": "Oversees the even distribution of background justice across daily life. Citizens may report unequal atmospheres of virtue for environmental calibration."
+          },
+          {
+            "title": "Civic Memory Recovery Initiative",
+            "rationale": "Funds mindfulness sessions to help communities remember what they were consulted about last year. Outcomes measured in moments of regained bureaucratic clarity."
+          },
+          {
+            "title": "Zero-Intensity Debate Policy",
+            "rationale": "Mandates that all political disagreements be conducted at whisper level with mutual eye contact. Participants receive empathy points for restraint."
+          },
+          {
+            "title": "Ethical Elevator Etiquette Regulation",
+            "rationale": "Requires all lifts to play affirmations reminding passengers of their shared humanity. Silence is encouraged but smiling remains mandatory."
+          },
+          {
+            "title": "Sustainable Nostalgia Outreach Fund",
+            "rationale": "Supports citizens struggling with emotionally intensive longing for the past. Approved activities include guilt-free reminiscing and historical rewilding walks."
+          },
+          {
+            "title": "Virtue Preservation in Digital Archives",
+            "rationale": "Digitally safeguards the nation’s proudest moral moments. Public access will be restricted to avoid overexposure to virtue without supervision."
+          },
+          {
+            "title": "Climate Change of Heart Project",
+            "rationale": "Addresses global warming through emotional alignment. Citizens are urged to lower their inner temperatures by practising moral coolness twice daily."
+          },
+          {
+            "title": "Bureaucratic Wellbeing Optimization Framework",
+            "rationale": "Introduces ergonomic compassion desks to improve clerical mindfulness. Civil servants will stretch between forms and hum inclusivity mantras before replying to emails."
+          },
+          {
+            "title": "Drizzle Literacy Programme",
+            "rationale": "Aims to increase public understanding of nuanced rain experiences. Classifications include ‘reflective mist’, ‘melancholy drop’, and ‘sustainable soak’."
+          },
+          {
+            "title": "Welsh Whispering Heritage Grant",
+            "rationale": "Protects the ancient art of quiet communication. Villages demonstrating superior hush discipline will be designated National Silence Reserves."
+          },
+          {
+            "title": "Emotionally Neutral Funding Mechanism",
+            "rationale": "Allocates grants through algorithms trained to feel nothing. Applicants comforted by this fairness are encouraged to express gratitude quietly."
+          },
+          {
+            "title": "Rural Reassurance Network",
+            "rationale": "Deploys empathy drones to deliver messages of comfort to isolated citizens. Recordings include affirmations like ‘You are valid, even in drizzle’."
+          },
+          {
+            "title": "Cross-Valley Emotional Connectivity Plan",
+            "rationale": "Builds bridges not of steel, but of shared sentiment. Citizens from opposite valleys must meet annually to exchange symbolic warmth vouchers."
+          },
+          {
+            "title": "Minister for Time-Zone Fairness",
+            "rationale": "Ensures equitable emotional experience across daylight hours. Citizens feeling left behind by sunset can apply for time compensation credits."
+          },
+          {
+            "title": "Inclusive Parking Meditation Scheme",
+            "rationale": "Reframes parking enforcement as an exercise in presence. Tickets will include breathing prompts to help motorists accept their karmic inconvenience."
+          },
+          {
+            "title": "National Tranquility Metrics Observatory",
+            "rationale": "Monitors levels of calm using sensors disguised as lampposts. Areas showing elevated anxiety will be sprinkled with gentle harp music at dusk."
+          },
+          {
+            "title": "Kindness in Kettles Directive",
+            "rationale": "Mandates all electric kettles produce a soothing chime instead of a boil. Boiling noise audits will ensure emotional safety in communal kitchens."
+          },
+          {
+            "title": "Bureaucratic Biodiversity Audit",
+            "rationale": "Evaluates the variety of form types across departments. Offices failing to maintain sufficient paperwork diversity will be rewilded with triplicate templates."
+          },
+          {
+            "title": "Fair Feelings in Fencing Strategy",
+            "rationale": "Ensures all public fences are emotionally permeable. Designs must evoke inclusion while maintaining moderate sheep boundaries."
+          },
+          {
+            "title": "Cultural Sincerity Enhancement Board",
+            "rationale": "Certifies performers and artists for emotional authenticity. Stage actors must prove genuine feeling before applying for funding."
+          },
+          {
+            "title": "Post-Plastic Emotional Economy Plan",
+            "rationale": "Transitions Wales to a fully biodegradable mood infrastructure. Citizens encouraged to trade recyclable positivity at designated Feelings Markets."
+          },
+          {
+            "title": "Empathy in Pavements Pilot",
+            "rationale": "Introduces temperature-sensitive pathways that glow gently when trodden mindfully. Data used to measure collective serenity per square metre."
+          },
+          {
+            "title": "National Emotional Weather Map",
+            "rationale": "Displays live updates on collective sentiment. Warnings issued for outbreaks of mild despair or sudden gusts of smugness."
+          },
+          {
+            "title": "Renewable Bureaucracy Acceleration Taskforce",
+            "rationale": "Seeks to achieve 100% sustainable paperwork generation. Civil servants must pedal stationary empathy bikes to power printers ethically."
+          },
+          {
+            "title": "Public Soul Calibration Centres",
+            "rationale": "Provides spaces for citizens to balance their moral frequencies. Sessions include bilingual tuning exercises and eco-friendly incense."
+          },
+          {
+            "title": "Mindful Municipal Lighting Project",
+            "rationale": "Replaces harsh streetlights with low-emission glowlamps designed to promote introspection. Citizens encouraged to pause under each lamp for gratitude moments."
+          },
+          {
+            "title": "Collective Reflection Day",
+            "rationale": "Introduces a national holiday where all citizens must spend the day quietly processing emotions in government-issued ponchos made of recycled virtue."
+          },
+          {
+            "title": "Ethically Balanced Bridge Maintenance Act",
+            "rationale": "Mandates that bridge repairs incorporate compassion rituals for the engineers. Crossing citizens must whisper affirmations of gratitude mid-span."
+          },
+          {
+            "title": "Post-Policy Reflection Fund",
+            "rationale": "Ensures every new law is followed by a public debrief on how it made people feel. Citizens required to submit 500-word feelings essays."
+          },
+          {
+            "title": "Emotional Density Housing Standard",
+            "rationale": "Introduces new regulations ensuring each home achieves minimum levels of shared empathy per square foot. Inspections include warmth audits and compassion soundproofing."
+          },
+          {
+            "title": "Virtue Recycling Bins Initiative",
+            "rationale": "Deploys special containers for outdated opinions and unwanted moral superiority. Recovered smugness will be processed into reusable civic virtue."
+          },
+          {
+            "title": "Sustainable Sheep Mindfulness Programme",
+            "rationale": "Encourages livestock owners to introduce meditation sessions for flocks. Research shows mindful sheep yield more ethically conscious wool."
+          },
+          {
+            "title": "Devolution of Feelings Bill",
+            "rationale": "Transfers emotional autonomy to local councils. Communities may now tailor their mood profiles according to regional drizzle and nostalgia quotas."
+          },
+          {
+            "title": "National Politeness Cloud Archive",
+            "rationale": "Stores every compliment ever issued by a public servant. Researchers will use the database to forecast trends in bureaucratic charm."
+          },
+          {
+            "title": "Civic Empathy Growth Accelerator",
+            "rationale": "Funds training for small businesses to develop emotional intelligence supply chains. Profits measured in units of collective self-satisfaction."
+          },
+          {
+            "title": "Zero-Disruption Decision Protocol",
+            "rationale": "Replaces abrupt policy announcements with softly phased murmur releases. Stakeholders must first achieve pre-decision emotional alignment."
+          },
+          {
+            "title": "Heritage Administrative Trails Network",
+            "rationale": "Converts old filing systems into walking tours. Visitors can trace the lifecycle of a 1987 planning form while journaling their bureaucratic gratitude."
+          },
+          {
+            "title": "Virtue Inflation Monitoring Office",
+            "rationale": "Tracks the rising value of moral signalling in public life. Index published quarterly to prevent overproduction of smug contentment."
+          },
+          {
+            "title": "Eco-Justice Dream Symposium",
+            "rationale": "Brings together citizens to co-design environmentally friendly utopias. Outcomes to be collated in a Vision Compost Pile for future policy fertilisation."
+          },
+          {
+            "title": "Emotional Infrastructure Resilience Plan",
+            "rationale": "Reinforces national morale with mood-proof lamination. All public institutions to conduct annual stress tests on community optimism levels."
+          },
+          {
+            "title": "Wellbeing in Waiting Rooms Standard",
+            "rationale": "Rebrands queues as participatory wellness experiences. Citizens encouraged to perform light gratitude stretches while awaiting service."
+          },
+          {
+            "title": "National Blame Recycling Service",
+            "rationale": "Collects unused guilt for redistribution to policy areas with moral deficits. Participants receive ‘Forgiveness Points’ for regular deposits."
+          },
+          {
+            "title": "Moral Architecture Framework",
+            "rationale": "Requires new public buildings to evoke humility through minimalist virtue geometry. Rooflines must slope toward forgiveness."
+          },
+          {
+            "title": "Low-Impact Regret Processing Hub",
+            "rationale": "Creates safe spaces for citizens to compost remorse. Participants receive carbon offsets for each successfully processed mistake."
+          },
+          {
+            "title": "Welsh Government Transparency Spa",
+            "rationale": "Combines accountability with aromatherapy. Visitors can review policy documents while receiving lavender-scented reassurance massages."
+          },
+          {
+            "title": "Compassion-as-a-Service Platform",
+            "rationale": "Outsources empathy delivery to a cloud-based solution. Users can request real-time understanding from government-certified kindness bots."
+          },
+          {
+            "title": "Digital Drizzle Simulator",
+            "rationale": "Provides urban residents with virtual rainfall experiences to maintain cultural continuity. VR goggles preloaded with official government greyness levels."
+          },
+          {
+            "title": "Participatory Politeness Innovation Lab",
+            "rationale": "Invites citizens to co-design new forms of courtesy. Successful prototypes may become mandatory greetings in public sector emails."
+          },
+          {
+            "title": "Emotionally Circular Economy Act",
+            "rationale": "Commits Wales to recycling not only materials but moods. Surplus positivity will be exported to deficit regions through the National Joy Grid."
+          },
+          {
+            "title": "Post-Democratic Consultation Experience",
+            "rationale": "Turns voting into a reflective art installation. Citizens will cast ballots into biodegradable boxes while being serenaded by harp music on fairness."
           }
   ];
   
