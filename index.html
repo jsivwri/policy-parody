@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en" x-data="govParodyApp()" x-init="init()">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Welsh Government | Strategic Policy Portal (Beta)</title>
+  <meta name="description" content="A totally serious and absolutely official-looking policy generator.">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8C%BC%3C/text%3E%3C/svg%3E">
+
+  <!-- App dependencies before Alpine so x-data is available at init -->
+  <script defer src="policies.js"></script>
+  <script defer src="app.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="gov-header" role="banner">
+    <div class="gov-container">
+      <div class="gov-header-inner">
+        <div class="gov-crest" aria-hidden="true">🐉</div>
+        <div class="gov-brand" aria-label="Welsh Government">
+          Llywodraeth Cymru | Welsh Government <span class="gov-phase" aria-label="Beta badge">BETA</span>
+        </div>
+      </div>
+      <nav class="gov-breadcrumbs" aria-label="Breadcrumb">
+        <a href="#">Home</a> / <span>Policy portal</span>
+      </nav>
+    </div>
+  </header>
+
+  <main class="gov-container" role="main">
+    <div class="gov-card" aria-live="polite" aria-atomic="true">
+      <p class="gov-kicker">Draft policy proposal</p>
+      <h1 class="gov-title" x-text="policy.title"></h1>
+      <p class="gov-meta">Reference: <span x-text="policy.reference"></span> · Issued: <span x-text="policy.date"></span></p>
+
+      <div>
+        <p class="gov-rationale" x-text="policy.rationale"></p>
+        <p class="gov-strap" x-text="'\u201C' + policy.strapline + '\u201D'"></p>
+      </div>
+
+      <hr class="gov-divider" />
+
+      <div class="gov-actions">
+        <button class="gov-btn primary" @click="regenerate()" aria-label="Generate another policy">Refresh policy</button>
+        <button class="gov-btn secondary" @click="share()" aria-label="Share this policy">Share</button>
+      </div>
+
+      <template x-if="copiedUrl">
+        <div class="gov-alert" role="status">Copied a shareable link to your clipboard.</div>
+      </template>
+    </div>
+  </main>
+
+  <div class="toast" x-show="toastMessage" x-transition.opacity.duration.200ms>
+    <div role="status" x-text="toastMessage"></div>
+  </div>
+
+  <footer class="gov-container" style="padding-bottom:40px;">
+    <p class="gov-footnote">Parody notice: No civil servants were harmed (or consulted) in the making of these policies. Any resemblance to real initiatives, living or budgeted, is entirely coincidental.</p>
+  </footer>
+
+  
+</body>
+</html>
+
+
