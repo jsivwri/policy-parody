@@ -412,6 +412,346 @@ window.POLICIES = [
     { 
       title: "National Puddle Observation Day", 
       rationale: "Recognises puddles as mirrors of civic resilience. Citizens invited to reflect—literally and spiritually—on shared soggy heritage." 
-    }
+    },
+        { 
+          "title": "National Wellbeing Enforcement Framework", 
+          "rationale": "Creates a new department to ensure every citizen reports feeling 'content' at least twice a week. Happiness Officers will conduct doorstep assessments using bilingual mindfulness questionnaires. Non-compliance may result in compulsory forest-bathing sessions in the Brecon Beacons."
+        },
+        { 
+          "title": "Zero-Risk Childhoods Act", 
+          "rationale": "Aims to eliminate all potential hazards for Welsh children by banning running, shouting, and competitive play. Schools must submit annual 'emotionally safe playground strategies' approved by a 42-page risk matrix and a panel of certified Feelings Consultants."
+        },
+        { 
+          "title": "Sustainable Singing Initiative", 
+          "rationale": "Mandates that all public choirs achieve carbon neutrality by 2030. Vocal emissions will be offset through strategic tree planting and the rewilding of hymns. Grants are available for communities achieving Net-Hwyl status."
+        },
+        { 
+          "title": "Valley Equality Rebalancing Scheme", 
+          "rationale": "Redistributes emotional and meteorological privilege between valleys. Sunny communities will contribute surplus daylight hours to rainier regions via a cloud-sharing cooperative overseen by the Ministry of Fairness."
+        },
+        { 
+          "title": "Compulsory Consultation Literacy Programme", 
+          "rationale": "Ensures every resident can participate meaningfully in the government’s 14,000 ongoing consultations. Citizens must attend monthly training in jargon interpretation and stakeholder empathy, funded by a £12 million clarity resilience fund."
+        },
+        { 
+          "title": "Welsh Identity Modernisation Strategy", 
+          "rationale": "Updates national symbols for inclusivity and sustainability. The dragon will be rendered in recycled fibre composites, while daffodils will be replaced by drought-tolerant heritage weeds to reflect changing cultural climates."
+        },
+        { 
+          "title": "Hydrogen Hospitality Mandate", 
+          "rationale": "Requires all cafés and pubs to power their kettles with green hydrogen by 2028. Baristas will receive transition training in low-carbon frothing, supported by the £90m Net-Zero Flat White Fund."
+        },
+        { 
+          "title": "Ministry of Kindness", 
+          "rationale": "Establishes a Cabinet-level post to monitor tone, empathy, and verbal inclusivity across all public interactions. Citizens are urged to preface complaints with gratitude statements to align with national Compassion Quotas."
+        },
+        { 
+          "title": "Cymraeg Emotional Connectivity Target", 
+          "rationale": "Sets a national benchmark ensuring every conversation in Wales includes at least one Welsh word, a moment of shared reflection, and an optional apology for linguistic imbalance. Enforcement officers will use empathy-based audits."
+        },
+        { 
+          "title": "Active Bureaucracy Plan", 
+          "rationale": "Transforms sedentary governance into an exercise in movement. Civil servants must complete their paperwork while walking uphill in solidarity with active travel goals. Stationary desks to be phased out by 2027."
+        },
+        { 
+          "title": "Inclusive Weather Transition Pathway", 
+          "rationale": "Acknowledges that not all communities experience drizzle equally. Allocates £6 million to study climate equity in regional rain distribution and funds public art installations celebrating 'diverse precipitation identities'."
+        },
+        { 
+          "title": "Cultural Equity in Breakfast Initiative", 
+          "rationale": "Mandates that all hotels serve an equal balance of traditional and plant-based components in the Welsh breakfast. Bacon rations to be offset by symbolic lentils. Guests encouraged to complete a Feelings About Food survey before checkout."
+        },
+        { 
+          "title": "Zero-Disagreement Policy Consultation", 
+          "rationale": "Launches a bold strategy to eliminate public dissent through continuous dialogue loops. Citizens expressing scepticism will be invited to 'reframe' their negativity in community listening circles led by tone moderators."
+        },
+        { 
+          "title": "Decolonised Daffodil Action Plan", 
+          "rationale": "Re-examines the daffodil’s historical narratives to ensure alignment with 21st-century values. Schools will replace the term 'national flower' with 'botanical stakeholder'. Educational packs include reflective worksheets on bulb privilege."
+        },
+        { 
+          "title": "Integrated Drizzle Management Framework", 
+          "rationale": "Coordinates all local authorities under a unified drizzle strategy to ensure fairness in light precipitation. Citizens will receive annual updates on their Moisture Equity Scores, with grants for communities experiencing drizzle deficiency."
+        },
+        { 
+          "title": "Bilingual Digital Services Roadmap", 
+          "rationale": "Mandates that every online form radiates equal warmth in Welsh and English. Developers must achieve carbon-neutral code and complete Cultural Latency Reduction training. Users experiencing linguistic anxiety will be triaged by a Compassion Chatbot."
+        },
+        { 
+          "title": "Rural Emotional Resilience Uplift Scheme", 
+          "rationale": "Provides funding for countryside mindfulness zones, complete with government-approved benches for state-sanctioned contemplation. Farmers required to log feelings of gratitude before applying for subsidy extensions."
+        },
+        { 
+          "title": "Circular Bureaucracy Transition Plan", 
+          "rationale": "Introduces 100% recyclable paperwork and reusable form templates to cut administrative waste. Civil servants will pilot self-renewing approval cycles where applications are automatically referred back to themselves for sustainability."
+        },
+        { 
+          "title": "Inclusive Energy Belonging Strategy", 
+          "rationale": "Ensures all citizens feel emotionally connected to their energy source. Gas users will be assigned transition mentors to guide them through renewable reconciliation. Electricity meters must display affirmations in both languages."
+        },
+        { 
+          "title": "Cultural Net-Zero Curriculum", 
+          "rationale": "Requires every pupil to achieve carbon literacy by Year 4 and emotional fluency by Year 6. History modules reframe industrial heritage as a moral parable on soot equity, ending with a national apology recital."
+        },
+        { 
+          "title": "Tree Equity Delivery Programme", 
+          "rationale": "Commits to planting one tree for every citizen’s unresolved guilt about driving. Each sapling will be named after the relevant vehicle’s registration number and monitored by local Carbon Care Coordinators."
+        },
+        { 
+          "title": "Affordable Virtue Housing Strategy", 
+          "rationale": "Ensures new homes are built not only to be energy efficient but to promote moral efficiency. Occupants must submit quarterly virtue impact statements demonstrating inclusive recycling and ethical heating practices."
+        },
+        { 
+          "title": "Welsh Bureaucratic Heritage Preservation Scheme", 
+          "rationale": "Protects the nation’s historic commitment to paperwork by designating government offices as cultural monuments. Tours will include live demonstrations of triplicate form stamping and ceremonial consultation drafting."
+        },
+        { 
+          "title": "National Moral Footprint Register", 
+          "rationale": "Extends carbon accounting to ethics. Citizens’ moral emissions — such as scepticism about wind farms or nostalgia for cars — will be logged on a public dashboard to encourage shame-based offsetting."
+        },
+        { 
+          "title": "Compassionate Speed Reduction Vision", 
+          "rationale": "Expands the 20mph policy into a 'journey mindfulness framework'. Drivers are encouraged to whisper affirmations to their vehicles and reflect on emotional acceleration. Fines reinvested into community calmness funds."
+        },
+        { 
+            "title": "Wellbeing Through Waiting Initiative", 
+            "rationale": "Rebrands NHS queues as ‘therapeutic patience environments’. Patients will be encouraged to embrace the emotional growth that comes from delayed treatment, supported by mindfulness signage and ambient harp playlists in waiting rooms."
+          },
+          { 
+            "title": "Cultural Congestion Management Strategy", 
+            "rationale": "Aims to reduce emotional gridlock on public transport by introducing quiet contemplation carriages. Passengers will be offered gratitude leaflets in both languages and fined for excessive sighing during delays."
+          },
+          { 
+            "title": "Post-Carbon Picnic Framework", 
+            "rationale": "Mandates that all public gatherings use solar-powered hampers, ethically sourced jam, and rewilded cucumber sandwiches. Disposable joy will be replaced by state-issued contentment mats."
+          },
+          { 
+            "title": "Minister for Feelings Alignment", 
+            "rationale": "Creates a new Cabinet position to ensure public emotions are consistent with government messaging. Discontent will be classified as a 'temporary wellbeing misalignment' requiring compassion counselling."
+          },
+          { 
+            "title": "Hydrological Mindfulness Pilot", 
+            "rationale": "Invites citizens to connect spiritually with rainfall through guided drizzle meditation sessions. Participants can earn Wellbeing Credits redeemable for biodegradable umbrellas."
+          },
+          { 
+            "title": "Inclusive Sheep Recognition Scheme", 
+            "rationale": "Ensures that every sheep in Wales is respected as a cultural contributor. Farmers will receive diversity training in ovine empowerment, with grants for the installation of emotional enrichment pastures."
+          },
+          { 
+            "title": "Digital Empathy Infrastructure Plan", 
+            "rationale": "Upgrades broadband networks to transmit compassion at gigabit speeds. Online disputes will be intercepted by the new Department of Tone, which will auto-insert conciliatory emojis into political debates."
+          },
+          { 
+            "title": "Low-Impact Nostalgia Programme", 
+            "rationale": "Regulates the consumption of sentimental memories to prevent carbon-heavy longing for the past. Citizens reminiscing about the 1980s must plant two trees and complete an online reflection form."
+          },
+          { 
+            "title": "Public Gratitude Broadcasting Service", 
+            "rationale": "Launches a daily 6pm bulletin where citizens publicly thank the government for ongoing improvements in fairness, drizzle, and traffic calming. Non-participation will be recorded as a mild civic oversight."
+          },
+          { 
+            "title": "Eco-Emotional Justice Bill", 
+            "rationale": "Links climate activism with emotional equality by mandating that every household offsets both its carbon footprint and its negative vibes. Community joy audits will measure compliance."
+          },
+          { 
+            "title": "Transitional Bus Empathy Scheme", 
+            "rationale": "Funds drivers to undergo mindfulness training to achieve Net-Kindness certification. Passengers are invited to journal their journey emotions using government-issued FeelCards."
+          },
+          { 
+            "title": "Heritage Bureaucracy Digitisation Project", 
+            "rationale": "Preserves historic inefficiency through the digital archiving of redundant forms. Citizens will be able to experience authentic 1990s-style administrative friction via a virtual queue portal."
+          },
+          { 
+            "title": "Emotional Carbon Exchange", 
+            "rationale": "Creates a new national market where feelings of guilt can be traded for renewable smugness credits. Participants who virtue-signal above quota will receive tax-free Empathy Points."
+          },
+          { 
+            "title": "Rural Wi-Fi Mindfulness Corridor", 
+            "rationale": "Introduces zones of deliberate signal silence to promote digital stillness. Locals will be trained in analogue connection strategies such as waving, letter writing, and polite conversation."
+          },
+          { 
+            "title": "Sustainable Festival Conduct Charter", 
+            "rationale": "Requires all cultural events to be powered by pedal generators and vegan joy. Performers must submit an Environmental Sensitivity Statement confirming their alignment with national virtue targets."
+          },
+          { 
+            "title": "Emotional Planning Consent Protocol", 
+            "rationale": "Extends the planning system to include feelings-based impact assessments. Any new development must demonstrate emotional harmony with the surrounding community’s sense of place and drizzle."
+          },
+          { 
+            "title": "Coastal Calmness Realignment Strategy", 
+            "rationale": "Funds the installation of serenity signage along beaches to remind visitors to inhale sustainably. Paddleboarders must complete reflective wave logs to ensure psychological equilibrium."
+          },
+          { 
+            "title": "Inclusive Composting Charter", 
+            "rationale": "Establishes compost bins as shared civic spaces promoting biodiversity and belonging. Residents will be encouraged to name their bins and share affirmations of decay on social media."
+          },
+          { 
+            "title": "Public Apology Expansion Framework", 
+            "rationale": "Allocates £5m to broaden the scope of national apologies to include weather patterns, traffic lights, and feelings of mild inconvenience. Each apology ceremony will be bilingual and fully carbon-offset."
+          },
+          { 
+            "title": "Minister for Sustainable Sentiments", 
+            "rationale": "Oversees emotional supply chains to prevent mood inflation. Citizens will be discouraged from hoarding happiness or exporting optimism without a Fair Feelings Licence."
+          },
+          { 
+            "title": "Strategic Puddle Rewilding Initiative", 
+            "rationale": "Protects urban puddles as vital micro-ecosystems for mindfulness. Councils must map local puddle populations and provide reflective signage encouraging public gratitude for surface water diversity."
+          },
+          { 
+            "title": "Low-Trauma Governance Roadmap", 
+            "rationale": "Rebrands political disagreement as ‘collective emotional turbulence’. Cabinet reshuffles will be announced with scented letters and guided breathing videos to maintain civic calm."
+          },
+          { 
+            "title": "National Silence Week", 
+            "rationale": "Introduces an annual seven-day period of mandatory quietness to offset noise emissions. Citizens will be encouraged to whisper their policy feedback through eco-certified paper cones."
+          },
+          { 
+            "title": "Moral Fibre Subsidy Scheme", 
+            "rationale": "Offers grants to households demonstrating exceptional virtue through low-carbon knitting and ethical crochet. Scarves labelled 'Made with Awareness' will qualify for moral rebate vouchers."
+          },
+          { 
+            "title": "Biodiverse Bureaucrat Training Pathway", 
+            "rationale": "Ensures civil servants embody ecosystem thinking by rotating between desks that represent different habitats. HR departments will monitor biodiversity in office conversations."
+          },
+          { 
+            "title": "Pan-Celtic Mindfulness Accord", 
+            "rationale": "Creates a cross-border partnership with Scotland and Ireland to harmonise emotional wellbeing standards. Participants must commit to a shared vision of serene nationalism, powered by offshore introspection."
+          },
+          { 
+            "title": "Sustainable Bureaucracy Apprenticeship", 
+            "rationale": "Trains the next generation of administrators in eco-conscious form completion. Applicants must submit 14 pages of sustainability statements before being shortlisted for paperless interviews."
+          },
+          { 
+            "title": "Democratic Gratitude Enhancement Bill", 
+            "rationale": "Requires all public servants to begin speeches by thanking the electorate for being governed. Constituents will be encouraged to return the favour through annual Civic Appreciation Reports."
+          },
+          { 
+            "title": "Wellness Through Bureaucracy Fund", 
+            "rationale": "Supports citizens in finding inner peace via slow administrative processes. Workshops teach applicants how to breathe through form delays and find joy in incomplete funding cycles."
+          },
+          { 
+            "title": "Renewable Patriotism Scheme", 
+            "rationale": "Encourages citizens to express national pride through carbon-neutral gestures only. Flag-waving must be powered by wind-assisted motion or approved community enthusiasm turbines."
+          },
+          { 
+            "title": "Civic Politeness Enhancement Programme", 
+            "rationale": "Launches a national retraining scheme ensuring all citizens deploy courteous phrases in line with government tone standards. Grants available for communities that achieve Platinum-Level Manners Certification."
+          },
+          { 
+            "title": "Post-Industrial Feelings Recovery Fund", 
+            "rationale": "Allocates £45 million to help former mining towns process collective emotions through storytelling circles, vegan soup evenings, and state-approved nostalgia mindfulness exercises."
+          },
+          { 
+            "title": "Active Travel Re-education Curriculum", 
+            "rationale": "Introduces compulsory cycling empathy classes in schools. Pupils will learn how to shame car owners gently while journaling gratitude for shared lanes and moderate drizzle."
+          },
+          { 
+            "title": "Ethical Wind Visibility Directive", 
+            "rationale": "Ensures wind farms are visually inclusive by featuring bilingual interpretive plaques explaining their moral purpose. Residents expressing aesthetic discomfort will be referred to Renewable Sensitivity Workshops."
+          },
+          { 
+            "title": "Emotionally Sustainable Farming Framework", 
+            "rationale": "Requires farmers to complete annual wellness audits for livestock, including stress inventories for sheep. Funding available for those adopting affirmational grazing practices and non-judgmental milking."
+          },
+          { 
+            "title": "Community Visioning Acceleration Fund", 
+            "rationale": "Provides grants to towns willing to imagine a brighter, more inclusive tomorrow. Applicants must submit a collective dream diary and three measurable outcomes of hope."
+          },
+          { 
+            "title": "National Politeness Index", 
+            "rationale": "Establishes an annual ranking of local authorities based on tone, warmth, and empathy metrics. Councils performing below average will receive mandatory re-civility coaching."
+          },
+          { 
+            "title": "Rain Equity Redistribution Bill", 
+            "rationale": "Seeks to balance regional rainfall through atmospheric fairness interventions. Areas experiencing excess precipitation will export drizzle credits to drier communities via the Cloud Fairness Portal."
+          },
+          { 
+            "title": "Green Bureaucracy Modernisation Strategy", 
+            "rationale": "Replaces traditional red tape with eco-conscious hemp ribbon. All official documents must be compostable within 18 months of submission, ensuring full-cycle administrative closure."
+          },
+          { 
+            "title": "Emotionally Inclusive Signage Programme", 
+            "rationale": "Mandates that all public signs use affirming, non-threatening language. Road warnings will be rewritten to prioritise self-esteem, e.g., 'Mindful of Speed?' instead of 'Slow Down.'"
+          },
+          { 
+            "title": "Zero-Pride Inequality Framework", 
+            "rationale": "Seeks to eliminate disparities in civic pride between regions. Underperforming towns will receive motivational murals, funded by levies on overly confident postcodes."
+          },
+          { 
+            "title": "Bilingual Laughter Access Act", 
+            "rationale": "Guarantees equal opportunities for humour in both Welsh and English. All jokes shared in public venues must be submitted for linguistic inclusivity review by the Office of Balanced Banter."
+          },
+          { 
+            "title": "Strategic Nostalgia Containment Plan", 
+            "rationale": "Aims to prevent uncontrolled outbreaks of longing for simpler times by issuing controlled doses of state-approved reminiscence. Retro fashion beyond 1989 requires a nostalgia permit."
+          },
+          { 
+            "title": "Citizen Participation Wellness Framework", 
+            "rationale": "Encourages emotional fulfilment through committee membership. Every citizen will serve on at least two advisory panels to promote holistic democracy and reduce civic loneliness."
+          },
+          { 
+            "title": "Social Equity in Scones Directive", 
+            "rationale": "Regulates jam-first vs. cream-first discrimination in Welsh tearooms. Establishes a neutral ordering protocol enforced by Equality Bakers to ensure harmony at high tea."
+          },
+          { 
+            "title": "Rewilding the Bureaucrat Scheme", 
+            "rationale": "Funds civil servants to spend two days a month working outdoors to restore their connection to nature. Laptops powered by portable solar empathy hubs will ensure uninterrupted policymaking."
+          },
+          { 
+            "title": "Empathy-Based Policing Pilot", 
+            "rationale": "Replaces arrests with guided conversations and emotional accountability worksheets. Officers will carry portable compassion meters calibrated to detect levels of remorse."
+          },
+          { 
+            "title": "Intergenerational Fairness in Drizzle Strategy", 
+            "rationale": "Ensures future generations inherit equal access to light rain. The government will capture and bank precipitation in emotional reservoirs for sustainable nostalgia."
+          },
+          { 
+            "title": "Public Consultation on Consultation Efficiency", 
+            "rationale": "Launches a year-long national dialogue to determine whether too many consultations are occurring. Submissions must follow the Consultation Engagement Best Practice Framework (Version 9)."
+          },
+          { 
+            "title": "Sustainable Silence Infrastructure Plan", 
+            "rationale": "Funds the development of purpose-built quiet zones where citizens can experience carbon-neutral tranquility. Councils must publish decibel neutrality reports annually."
+          },
+          { 
+            "title": "National Inclusion of Moss Strategy", 
+            "rationale": "Recognises moss as an underappreciated ecological partner. Public buildings will feature living moss walls symbolising moral humility and soft growth."
+          },
+          { 
+            "title": "Diversity in Dewdrops Charter", 
+            "rationale": "Promotes environmental equity by ensuring all morning dew is distributed fairly across lawns. Councils failing to achieve dew parity will face inclusion audits."
+          },
+          { 
+            "title": "Emotionally Neutral Architecture Code", 
+            "rationale": "Requires new buildings to emit no emotional bias through their design. Colour palettes must be government-approved for calm neutrality and bilingual serenity."
+          },
+          { 
+            "title": "Cultural Safety in Sandwiches Bill", 
+            "rationale": "Regulates lunchtime inclusivity by banning exclusive sandwich terminology. 'Club sandwich' to be renamed 'Collective Assembly of Bread'. Menus must display food pronouns."
+          },
+          { 
+            "title": "Mindful Governance Symposium Series", 
+            "rationale": "Introduces mandatory monthly retreats for ministers to reconnect with their purpose. Policy discussions will be held in yurts powered by interpretive dance."
+          },
+          { 
+            "title": "Community Happiness Reporting Framework", 
+            "rationale": "Obliges councils to issue quarterly Joy Reports measuring citizen smiles per capita. Localities under the benchmark will receive emergency mirth funding."
+          },
+          { 
+            "title": "Polychromatic Pavement Inclusion Scheme", 
+            "rationale": "Ensures that all pedestrian crossings represent the full emotional spectrum. Residents can petition for additional hues to reflect local sensitivities."
+          },
+          { 
+            "title": "Holistic Bureaucratic Renewal Act", 
+            "rationale": "Integrates aromatherapy and gentle gong sessions into government meetings. Civil servants will log their chakra alignment progress via the Bilingual Energy Tracker App."
+          },
+          { 
+            "title": "Gender-Neutral Weather Terminology Review", 
+            "rationale": "Replaces traditional meteorological language with inclusive alternatives. 'Storms' will be renamed 'Energetic Atmospheric Events' to avoid emotional stereotyping."
+          },
+          { 
+            "title": "Fair Feelings in Funding Policy", 
+            "rationale": "Distributes grants based not on need but on emotional sincerity of application tone. Applicants using the phrase 'community wellbeing' more than five times are prioritised for fast-track approval."
+          }
   ];
   
